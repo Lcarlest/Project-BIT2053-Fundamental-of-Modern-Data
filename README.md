@@ -15,9 +15,9 @@ This project aims to answer three business questions:
 - The dataset has order detail such as product, category sales, profit, customer information, region, time attributes and many more which is it is very suitable for retail business analysis.  
 
 ## Methodology
-1.  **Data Scouring**  
-   - discover dataset
-   - Download dataset
+1. **Data Scourcing**  
+   - Discover Dataset 
+   - Download Dataset  
      
 2. **Data Preprocessing**  
    - Removed missing/duplicate values  
