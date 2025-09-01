@@ -43,7 +43,8 @@ This project aims to answer three business questions:
 
 ## The Functioning of BI Dashboard
 The Power BI dashboard allows users to:  
-- Filter by region, category, and time period  
+- Filter by region, category, and time period
+- Remove error, redundant and cleaning up data
 - Drill down into product sub-categories for detailed analysis  
 - Compare sales vs profit with interactive visuals  
 - Identify discount impact on revenue and margins
