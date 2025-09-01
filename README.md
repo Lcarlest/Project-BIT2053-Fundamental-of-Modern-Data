@@ -26,7 +26,7 @@ This project aims to answer three business questions:
 
 ## BI Dashboard
 
-![Image Alt}(https://github.com/Lcarlest/Project-BIT2053-Fundamental-of-Modern-Data/blob/3bb4fe5a2dfb0e201c3465658a7206d07fd62076/Picture1.png)
+![image alt](https://github.com/Lcarlest/Project-BIT2053-Fundamental-of-Modern-Data/blob/3bb4fe5a2dfb0e201c3465658a7206d07fd62076/Picture1.png)
 
 ##  Recommendations
 1. Strengthen Corporate Segment Engagement 
