@@ -15,9 +15,22 @@ This project aims to answer three business questions:
 - The dataset has order detail such as product, category sales, profit, customer information, region, time attributes and many more which is it is very suitable for retail business analysis.  
 
 ## Methodology
-1. **Data Preprocessing** – removed duplicates, handled missing values, normalized date formats.  
-2. **Data Modeling** – created schema for relationships (Orders, Customers, Products).  
-3. **Visualization** – built 5+ interactive Power BI charts (bar chart, line chart, map, pie chart, slicers).  
+1. 1. **Data Scouring**  
+   - discover dataset
+   - Download dataset
+     
+2. **Data Preprocessing**  
+   - Removed missing/duplicate values  
+   - Standardized date formats  
+   - Normalized numerical fields (sales, profit, discount)  
+
+3. **Data Modeling**  
+   - Built schema linking Orders, Customers, Products, and Regions  
+   - Created calculated fields for profit margin and discount ratio  
+
+4. **Visualization (Power BI)**  
+   - Used bar charts, line graphs, maps, and slicers for interactivity  
+   - Designed a dashboard summarizing sales and profit performance    
 
 ## Results
 - Sales peak during holiday months (Nov–Dec).  
@@ -28,14 +41,12 @@ This project aims to answer three business questions:
 
 ![image alt](https://github.com/Lcarlest/Project-BIT2053-Fundamental-of-Modern-Data/blob/3bb4fe5a2dfb0e201c3465658a7206d07fd62076/Picture1.png)
 
-##  Recommendations
-1. Strengthen Corporate Segment Engagement 
-2. Expand the Technology Category  
-3. Enhance Furniture Profitability  
-4. Target Emerging APAC Markets 
-5. Leverage Seasonal Trends for Promotions  
-6. Focus on High-Value Customers 
-7. Optimize Discount Strategies 
+## The Functioning of BI Dashboard
+The Power BI dashboard allows users to:  
+- Filter by region, category, and time period  
+- Drill down into product sub-categories for detailed analysis  
+- Compare sales vs profit with interactive visuals  
+- Identify discount impact on revenue and margins
 
 
 ##  Acknowledgement
